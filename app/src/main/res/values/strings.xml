@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Integrador</string>
+    <string name="userName">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="logo">logo</string>
+    <string name="email">email</string>
+</resources>
